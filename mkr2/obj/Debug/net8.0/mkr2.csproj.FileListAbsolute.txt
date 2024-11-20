@@ -1,0 +1,14 @@
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\bin\Debug\net8.0\mkr2.exe
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\bin\Debug\net8.0\mkr2.deps.json
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\bin\Debug\net8.0\mkr2.runtimeconfig.json
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\bin\Debug\net8.0\mkr2.dll
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\bin\Debug\net8.0\mkr2.pdb
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\obj\Debug\net8.0\mkr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\obj\Debug\net8.0\mkr2.AssemblyInfoInputs.cache
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\obj\Debug\net8.0\mkr2.AssemblyInfo.cs
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\obj\Debug\net8.0\mkr2.csproj.CoreCompileInputs.cache
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\obj\Debug\net8.0\mkr2.dll
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\obj\Debug\net8.0\refint\mkr2.dll
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\obj\Debug\net8.0\mkr2.pdb
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\obj\Debug\net8.0\mkr2.genruntimeconfig.cache
+C:\Users\Vetal\Desktop\university\year3\cross_mkr_2\mkr2\obj\Debug\net8.0\ref\mkr2.dll
